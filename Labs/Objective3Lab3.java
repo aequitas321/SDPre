@@ -6,7 +6,7 @@ public class Objective3Lab3{
 
     Scanner keyboard = new Scanner(System.in);
 
-    System.out.println("How old are you??");
+    System.out.println("How old are you?");
     age = keyboard.nextInt();
     currentYear = 2020;
     birthYear = currentYear - age;
