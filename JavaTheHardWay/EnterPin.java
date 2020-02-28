@@ -18,5 +18,5 @@ public class EnterPin {
         }
 
         System.out.println("\nPIN ACCEPTED. YOUR ACCOUNT BALANCE IS $425.17");
-    }
+    } 
 }
